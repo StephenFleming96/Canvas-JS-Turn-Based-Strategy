@@ -4,6 +4,8 @@ No frameworks or libraries.
 
 Created for Gynvael's Winter GameDev Challenge 2017.
 
+![alt text](https://raw.githubusercontent.com/StephenFleming96/Canvas-JS-Turn-Based-Strategy/game-master/documentation/game_ss.png)
+
 ## How to Play
 The player starts with 3 units and has a total of 5 moves per turn between them.
 
